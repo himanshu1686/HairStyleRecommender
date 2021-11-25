@@ -1,0 +1,5 @@
+oval
+square
+round
+heart
+oblong

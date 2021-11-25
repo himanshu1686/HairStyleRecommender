@@ -1,0 +1,3 @@
+FaceShape Dataset/
+# This dircectory should have training_set , testing_set directory and an training_set_aug 
+# would be created from pre_proccess.ipynb
